@@ -1,0 +1,145 @@
+[
+  {
+    "id": "hpgsy11r",
+    "title": "Piano 40mins",
+    "category": "Music",
+    "description": "40 mins",
+    "dueDate": "2025-09-08T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "NotStarted",
+    "owner": "Ryan"
+  },
+  {
+    "id": "bn6tftwm",
+    "title": "Piano 40mins",
+    "category": "Music",
+    "description": "40 mins",
+    "dueDate": "2025-09-10T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "NotStarted",
+    "owner": "Ryan"
+  },
+  {
+    "id": "43ilrp8d",
+    "title": "Piano 30mins",
+    "category": "Music",
+    "description": "30 mins",
+    "dueDate": "2025-09-11T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "Completed",
+    "owner": "Ryan"
+  },
+  {
+    "id": "parakj5c",
+    "title": "Piano 40mins",
+    "category": "Music",
+    "description": "40 mins",
+    "dueDate": "2025-09-12T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "Completed",
+    "owner": "Ryan"
+  },
+  {
+    "id": "hvmlijmv",
+    "title": "Piano 60mins",
+    "category": "Music",
+    "description": "1 hour",
+    "dueDate": "2025-09-13T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "Completed",
+    "owner": "Ryan"
+  },
+  {
+    "id": "uqpm12fb",
+    "title": "Piano 60mins",
+    "category": "Music",
+    "description": "1 hour",
+    "dueDate": "2025-09-14T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "NotStarted",
+    "owner": "Ryan"
+  },
+  {
+    "id": "i9g2fzsq",
+    "title": "Trash Chapter-3",
+    "category": "Academics",
+    "description": "audio recording",
+    "dueDate": "2025-09-20T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "NotStarted",
+    "owner": "Ryan"
+  },
+  {
+    "id": "3ofn24qg",
+    "title": "Math (extension)",
+    "category": "Academics",
+    "description": "",
+    "dueDate": "2025-09-21T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "InProgress",
+    "owner": "Ryan"
+  },
+  {
+    "id": "f8uafqwm",
+    "title": "Math Test (40 mins)",
+    "category": "Academics",
+    "description": "ICAS (10-40)",
+    "dueDate": "2025-09-22T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "NotStarted",
+    "owner": "Chris"
+  },
+  {
+    "id": "9gfgqkif",
+    "title": "Persusive Writing",
+    "category": "Academics",
+    "description": "Use see-saw for both opinions.",
+    "dueDate": "2025-09-23T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "NotStarted",
+    "owner": "Chris"
+  },
+  {
+    "id": "gtckzkf2",
+    "title": "Persusive Writing (25min)",
+    "category": "Academics",
+    "description": "Mock Test",
+    "dueDate": "2025-09-23T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "NotStarted",
+    "owner": "Chris"
+  },
+  {
+    "id": "j73aqrjv",
+    "title": "Reading (2 articles)",
+    "category": "Academics",
+    "description": "20 mins",
+    "dueDate": "2025-09-24T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "NotStarted",
+    "owner": "Chris"
+  },
+  {
+    "id": "u6btbrn8",
+    "title": "Reading (3 articles)",
+    "category": "Academics",
+    "description": "30 mins",
+    "dueDate": "2025-09-18T00:00:00.000Z",
+    "type": "must",
+    "createdBy": "user",
+    "progress": "NotStarted",
+    "owner": "Chris"
+  }
+]
